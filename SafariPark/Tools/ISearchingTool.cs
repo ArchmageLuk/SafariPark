@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Tools
 {
-    internal class SearchingTool
+    internal interface ISearchingTool
     {
     }
 }

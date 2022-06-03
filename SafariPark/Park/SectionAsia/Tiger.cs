@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAsia
 {
-    internal class Tiger
+    public class Tiger
     {
-        private string _division = "mammal";
-        private string _type = "cat";
-        private string _spiece = "Tiger";
+        public string _division = "mammal";
+        public string _type = "cat";
+        public string _specie = "Tiger";
     }
 }

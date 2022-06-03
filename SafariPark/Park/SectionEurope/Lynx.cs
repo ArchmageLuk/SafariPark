@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionEurope
 {
-    internal class Lynx
+    public class Lynx
     {
-        private string _division = "mammal";
-        private string _type = "cat";
-        private string _spiece = "Lynx";
+        public string _division = "mammal";
+        public string _type = "cat";
+        public string _specie = "Lynx";
     }
 }

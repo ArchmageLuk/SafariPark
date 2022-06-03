@@ -8,9 +8,9 @@ namespace SafariPark.Park.SectionAfrica
 {
     internal class Vulture
     {
-        private string _division = "bird";
-        private string _type = "bird";
-        private string _spiece = "White-headed Vulture";
-        private string _info = "The white-headed vulture is a medium-sized vulture. It has a pink beak and a white crest, and the featherless areas on its head are pale.";
+        public string _division = "bird";
+        public string _type = "bird";
+        public string _specie = "White-headed Vulture";
+        public string _info = "The white-headed vulture is a medium-sized vulture. It has a pink beak and a white crest, and the featherless areas on its head are pale.";
     }
 }

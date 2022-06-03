@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAsia
 {
-    internal class GreyWolf
+    public class GreyWolf
     {
-        private string _division = "mammal";
-        private string _type = "dog";
-        private string _spiece = "Grey Wolf";
+        public string _division = "mammal";
+        public string _type = "dog";
+        public string _specie = "Grey Wolf";
     }
 }

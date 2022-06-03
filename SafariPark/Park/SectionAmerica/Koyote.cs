@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAmerica
 {
-    internal class Koyote
+    public class Koyote
     {
-        private string _division = "mammal";
-        private string _type = "dog";
-        private string _spiece = "Koyote";
+        public string _division = "mammal";
+        public string _type = "dog";
+        public string _specie = "Koyote";
     }
 }

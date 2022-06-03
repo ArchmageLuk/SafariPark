@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAsia
 {
-    internal class Panda
+    public class Panda
     {
-        private string _division = "mammal";
-        private string _type = "bear";
-        private string _spiece = "Panda";
+        public string _division = "mammal";
+        public string _type = "bear";
+        public string _specie = "Panda";
     }
 }

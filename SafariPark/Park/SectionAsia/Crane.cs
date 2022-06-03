@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAsia
 {
-    internal class Crane
+    public class Crane
     {
-        private string _division = "bird";
-        private string _type = "bird";
-        private string _spiece = "Crane";
+        public string _division = "bird";
+        public string _type = "bird";
+        public string _specie = "Crane";
     }
 }

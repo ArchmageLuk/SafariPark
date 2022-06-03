@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAmerica
 {
-    internal class Grizly
+    public class Grizly
     {
-        private string _division = "mammal";
-        private string _type = "bear";
-        private string _spiece = "Grizly";
+        public string _division = "mammal";
+        public string _type = "bear";
+        public string _specie = "Grizly";
     }
 }

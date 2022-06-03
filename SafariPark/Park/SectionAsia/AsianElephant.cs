@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SafariPark.Park.SectionAsia
 {
-    internal class AsianElephant
+    public class AsianElephant
     {
-        private string _division = "mammal";
-        private string _type = "elephant";
-        private string _spiece = "Asian Elephant";
+        public string _division = "mammal";
+        public string _type = "elephant";
+        public string _specie = "Asian Elephant";
     }
 }

@@ -8,9 +8,9 @@ namespace SafariPark.Park.SectionAfrica
 {
     internal class Lion
     {
-        private string _division = "mammal";
-        private string _type = "cat";
-        private string _spiece = "Lion";
-        private string _info = "Lion is a large cat native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail.";
+        public string _division = "mammal";
+        public string _type = "cat";
+        public string _specie = "Lion";
+        public string _info = "Lion is a large cat native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail.";
     }
 }

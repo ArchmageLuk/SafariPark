@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SafariPark
+namespace SafariPark.Park
 {
     internal class Utilities
     {
