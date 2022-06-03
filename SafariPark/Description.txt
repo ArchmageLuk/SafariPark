@@ -1,0 +1,37 @@
+﻿
+Safari-Park project
+
+We have safari-park with animals (10). Using key words we can sort or find specific animals.
+
+1. Program.cs launches method Main()
+2. Method main launches method HelloGuide() in Guide.cs
+3. Method HelloGuide asks for a parameter (criteria) by which we want to find or sort animals.
+4. Then by using imput the method calls a search method FindAnimal() from GuideSearch.cs
+5.
+
+Guide has two instruments: "Sort segment by", "Filter segment by"
+
+
+Animals in the park:
+
+Africa:
+	Lion
+	African elephant
+	Hyena
+	Vulture
+America
+	Bobcat
+	Grizly
+	Koyote
+	Eagle
+Asia
+	Tiger
+	Asian elephant
+	Panda
+	Grey wolf
+	Crane
+Europe
+	Lynx
+	Brown bear
+	Grey wolf
+	Falcon
